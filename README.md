@@ -141,7 +141,7 @@ I enjoy competitive programming because it helps me develop strong problem-solvi
 | 🟡 LeetCode | **1950+ Rating** |
 | 🔵 Codeforces | **Specialist** |
 | 🟠 CodeChef | **3★** |
-| 🧩 Problems Solved | **1600+** |
+| 🧩 Problems Solved | **1000+** |
 
 🏆 **CP Rumble 2026 — 1st Position**
 
@@ -160,7 +160,6 @@ Currently focusing on:
 - Graphs
 - Dynamic Programming
 - Greedy Algorithms
-- Segment Trees
 - Number Theory
 
 I regularly practice problems and participate in competitive programming contests.
@@ -173,7 +172,6 @@ I regularly practice problems and participate in competitive programming contest
 - 🧠 Improving advanced DSA
 - 🏗️ Learning System Design
 - 🔌 Designing and consuming REST APIs
-- ⚡ Exploring real-time applications
 - 💼 Preparing for Software Engineering Internships
 
 ---
@@ -184,7 +182,6 @@ I regularly practice problems and participate in competitive programming contest
 - [ ] Master advanced DSA
 - [ ] Improve Competitive Programming ratings
 - [ ] Build production-quality projects
-- [ ] Contribute to Open Source
 - [ ] Secure a Software Engineering Internship
 
 ---
